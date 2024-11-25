@@ -12,7 +12,7 @@ const ServicesSection = () => {
     const ServiceIcon = service.icon;
 
     return (
-      <div className="rounded-2xl bg-white shadow-2xl overflow-hidden">
+      <div className="rounded-2xl bg-white shadow-2xl overflow-hidden ">
         <motion.div
           initial={{ opacity: 0, scale: 0.5 }}
           animate={{

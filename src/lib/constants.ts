@@ -123,7 +123,7 @@ export const DEV_CATEGORY = [
 
 export const PROJECTS = [
   {
-    title: "SaaS",
+    title: "Markinzy (SaaS)",
     category: "web",
     description:
       "A full-stack SaaS platform tailored for digital marketers, offering tools for content generation, SEO optimization, and email marketing in a single, user-friendly interface.",
@@ -133,7 +133,7 @@ export const PROJECTS = [
     featured: true,
   },
   {
-    title: "E-commerce",
+    title: "Myhfpc (E-commerce)",
     category: "web",
     description:
       "A versatile e-commerce platform enabling businesses to showcase products, manage orders, and provide a seamless shopping experience for customers.",

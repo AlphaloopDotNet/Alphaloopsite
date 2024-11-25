@@ -59,8 +59,8 @@ const contactInfos: ContactInfo[] = [
   {
     icon: Mail,
     title: "Email Us",
-    primary: "contact@alphaloopIT.com",
-    secondary: "support@alphaloopIT.com",
+    primary: "contact.us@alphaloop.net",
+    secondary: "",
   },
   {
     icon: MapPin,
@@ -300,7 +300,7 @@ const ContactPage: React.FC = () => {
                   <div className="flex items-center gap-3 text-gray-600">
                     <Globe className="w-5 h-5 text-bluee" />
                     <Link href={"https://www.alphaloop.net"}>
-                      <span>www.alphaloopIT.com</span>
+                      <span>www.alphaloop.net</span>
                     </Link>
                   </div>
                 </div>
