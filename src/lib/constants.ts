@@ -75,7 +75,7 @@ export const AboutSectionServices = [
 export const AboutSectionStats = [
   { number: "75", label: "Completed Projects" },
   { number: "100", label: "Happy Clients" },
-  { number: "50", label: "Join Ventures" },
+  { number: "50", label: "Joint Ventures" },
   { number: "200", label: "Cups of Coffee" },
 ];
 

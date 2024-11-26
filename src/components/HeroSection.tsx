@@ -20,7 +20,7 @@ const HeroSection = () => {
                 `inline animate-gradient bg-gradient-to-r from-yelloww via-bluee to-yelloww bg-[length:var(--bg-size)_100%] bg-clip-text text-transparent items-center`
               )}
             >
-              Innovative | Develop | Thrive
+              Innovate | Develop | Thrive
             </span>
           </AnimatedGradientText>
           <h1 className="text-4xl sm:text-5xl lg:text-7xl font-bold text-gray-900 tracking-tight ">
