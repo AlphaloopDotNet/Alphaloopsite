@@ -57,7 +57,7 @@ const Footer = () => {
             <ul className="space-y-3">
               {[
                 { Icon: Phone, text: COMPANY_INFO.contact.phone, flag: "🇮🇳" },
-                { Icon: Phone, text: COMPANY_INFO.contact.phone2, flag: "🇺🇸" },
+                // { Icon: Phone, text: COMPANY_INFO.contact.phone2, flag: "🇺🇸" },
                 { Icon: Mail, text: COMPANY_INFO.contact.email },
                 {
                   Icon: MapPin,

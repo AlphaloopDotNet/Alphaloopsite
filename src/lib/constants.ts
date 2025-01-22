@@ -106,8 +106,7 @@ export const COMPANY_INFO = {
   name: "AlphaloopIT",
   tagline: "Transforming businesses through innovative technology solutions.",
   contact: {
-    phone: "+91 7357953308",
-    phone2: "+1 (650) 7411 348",
+    phone: "8824251921",
     email: "contact.us@alphaloop.net",
     address: "80, Laxmi nagar, Sector-8, near Jain travels",
     city: "Udaipur, (Raj.)",
@@ -139,7 +138,6 @@ export const PROJECTS = [
       "A versatile e-commerce platform enabling businesses to showcase products, manage orders, and provide a seamless shopping experience for customers.",
     image: "/myhfpc.png",
     technologies: ["Wordpress", "Elementor"],
-    liveUrl: "https://www.myhfpc.com",
     featured: true,
   },
   {
